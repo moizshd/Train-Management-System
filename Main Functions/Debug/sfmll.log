@@ -1,0 +1,7 @@
+﻿  sfml.cpp
+C:\Users\Shahid Suleman\source\repos\sfmll\sfmll\sfml.cpp(369,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  sfmll.vcxproj -> C:\Users\Shahid Suleman\source\repos\sfmll\Debug\sfmll.exe
